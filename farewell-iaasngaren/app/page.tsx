@@ -289,7 +289,7 @@ export default function FarewellPage() {
       </motion.div>
 
 
-      {/* --- MODAL SURAT (Amplop & Fullscreen) --- */}
+      {/* --- MODAL SURAT (Amplop & Fullscreen) --- testing nambah*/}
       <AnimatePresence>
         {activePerson && (
           <motion.div 
